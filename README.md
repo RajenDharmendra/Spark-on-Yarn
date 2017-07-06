@@ -140,11 +140,7 @@ export SPARK_JAR=hdfs://&lt;nn&gt;:&lt;port&gt;/user/spark/share/lib/spark-assem
 
 <h2>Comparison Between Spark on YARN and Standalone mode:</h2>
 
-<style>
-	table.custom thead th, table.custom tbody tr td{
-    	text-align: center !important;
-	}
-</style>
+
 
 <table align="center" border="1" cellpadding="1" cellspacing="1" class="custom">
 	<tbody>
